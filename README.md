@@ -1,5 +1,5 @@
 🎨 Design Agency — AI & ML Product Design
-A responsive frontend website for a modern AI & ML product design agency, built with vanilla HTML, CSS, and JavaScript. The project showcases clean UI/UX design, interactive elements, and seamless cross-device compatibility.
+A responsive frontend website for a modern AI & ML product design agency, built with vanilla HTML, CSS, and JavaScript. The project showcases clean UI/UX design, interactive elements, and seamless cross-device compatibility
 
 🌐 Live Demo
 

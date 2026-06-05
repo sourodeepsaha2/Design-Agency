@@ -49,7 +49,7 @@ npx serve .
 DeviceBreakpointMobile< 768pxTablet768px – 1024pxDesktop> 1024px
 
 🤝 Contributing
-Contributions, issues, and feature requests are welcome!
+Contributions, issues, and feature requests are welcome
 
 Fork the repository
 Create your feature branch: git checkout -b feature/your-feature
